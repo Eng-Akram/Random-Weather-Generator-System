@@ -1,0 +1,1 @@
+Description: ClearTemperature:	ModerateHigh: 64°F (17°C)Low: 48°F (8°C)Relative:	Colder than normalWind Force:	LightWind Speed:	6 mph (9 kph)Wind Info: Light Wind: A gentle breeze, having little or no game effect.
